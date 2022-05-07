@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/montserrat": "^4.5.10",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },
