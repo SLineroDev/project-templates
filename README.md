@@ -2,12 +2,16 @@
 
 In this repo I store all the templates for my projects so I can create new ones faster
 
+## Templates
+
+- Vite + React + Typescript + TS-Standard
+
 ## Getting started
 
 1- Create the project.
   
 ```bash
-npx degit fabien-ml/react-ts-vite-template my-app
+npx degit npx degit slinerodev/project-templates/[TEMPLATE_NAME] [PROJECT_NAME]
 ```
 
 2- Access the project directory.
