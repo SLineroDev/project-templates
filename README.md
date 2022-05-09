@@ -4,14 +4,13 @@ In this repo I store all the templates for my projects so I can create new ones 
 
 ## Templates
 
-- Vite + React + Typescript + TS-Standard
+- Vite + React + Typescript + TS-Standard(vite-react-ts-standard-eslint)
 
 ## Getting started
 
 1- Create the project.
   
-```bash
-npx degit npx degit slinerodev/project-templates/[TEMPLATE_NAME] [PROJECT_NAME]
+```bashnpx degit slinerodev/project-templates/[TEMPLATE_NAME] my-app
 ```
 
 2- Access the project directory.
@@ -35,8 +34,9 @@ npm install
 5- Serve with hot reload at <http://localhost:3000>.
 
 ```bash
-npm run dev
+npm run dev 
 ```
-Recommended VS Code extensions
-ESLint
-Prettier
+
+### Recommended VS Code extension  
+
+-ESLint
